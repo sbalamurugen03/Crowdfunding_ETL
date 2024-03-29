@@ -12,3 +12,10 @@ ETL Project
 9. Data_Select_Queries.sql (PostgreSQL/Data_Select_Queries.sql) - SQL Queries file - To validate the data in the table
 10. ERD_Diagram.PNG (PostgreSQL/ERD_Diagram.PNG) - ERD diagram file - DB schema diagram
 11. ERD_Schema.txt (PostgreSQL/ERD_Schema.txt) - Information to update the DB schema diagram
+
+Added select statement screen shots in the following folder,
+
+Category : PostgreSQL\Select_category.PNG
+Subcategory : PostgreSQL\Select_subcategory.PNG
+contacts : PostgreSQL\Select_contacts.PNG
+campaign : PostgreSQL\Select_campaign.PNG
